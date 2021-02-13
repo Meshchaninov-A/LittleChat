@@ -1,0 +1,2 @@
+# LittleChat
+Simple chat implementation
